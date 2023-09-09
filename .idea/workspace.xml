@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cd6e9de-2d4f-499a-a150-8d35e43ff6f6" name="Changes" comment="" />
+    <list default="true" id="1cd6e9de-2d4f-499a-a150-8d35e43ff6f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2V9PZQvoDOJpcOoWITrJJSW6IPp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,7 +25,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/patel1637/Desktop/Jaydeep",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/patel1637/Desktop/dhruv/Jaydeep",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694245377780</updated>
       <workItem from="1694245379293" duration="100000" />
+      <workItem from="1694246124717" duration="234000" />
     </task>
     <servers />
   </component>
